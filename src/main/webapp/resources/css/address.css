@@ -1,0 +1,21 @@
+.address {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    width: 40%;
+    height: 40%;
+    border: solid 1px #9CBACE;
+    text-align: center;
+}
+
+.hidden-update {
+    display: none;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 60%;
+    height: 60%;
+    text-align: center;
+    background-color: #8fce35;
+    z-index: 1;
+}

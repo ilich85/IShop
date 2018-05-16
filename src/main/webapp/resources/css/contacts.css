@@ -1,0 +1,16 @@
+.contacts {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 20%;
+    left: 60%;
+}
+
+.google-map {
+    position: absolute;
+    width: 700px;
+    height: 700px;
+    top: 20%;
+    left: 10%;
+
+}

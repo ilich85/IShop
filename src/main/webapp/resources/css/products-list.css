@@ -1,0 +1,37 @@
+.products {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    width: 70%;
+    height: inherit;
+    border: solid 1px #9cbace;
+}
+
+.product {
+    display: inline-block;
+    margin: 13px;
+    left: 10%;
+    width: 30%;
+    height: auto;
+    border: solid 1px #c4cece;
+    text-align: center;
+}
+
+.product-name {
+    position: relative;
+    color: #2632ff;
+    font-size: 26px;
+}
+
+.product-image {
+    position: inherit;
+    width: 200px;
+    height: 200px;
+    top: 12%;
+    left: 2%;
+}
+
+h3 {
+    text-align: center;
+    color: green;
+}

@@ -1,0 +1,17 @@
+.main-page {
+    position: absolute;
+    width: 80%;
+    height: auto;
+    left: 10%;
+}
+
+.main-page p {
+    font-size: x-large;
+    color: #0d6db6;
+    text-align: center;
+}
+
+.main-image {
+    width: 100%;
+    height: auto;
+}

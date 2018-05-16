@@ -1,0 +1,11 @@
+.register,
+.auth {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    margin-left: -200px;
+    border: dashed 1px #000000;
+}

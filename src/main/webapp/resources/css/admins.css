@@ -1,0 +1,21 @@
+.delete-image {
+    width: 20px;
+    height: 20px;
+}
+
+.add-admin {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 20%;
+    height: 10%;
+    text-align: center;
+}
+.admins-list{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    width: 20%;
+    height: auto;
+    text-align: center;
+}

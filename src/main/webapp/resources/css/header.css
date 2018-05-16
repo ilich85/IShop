@@ -1,0 +1,69 @@
+.header {
+    width: 100%;
+    height: 40px;
+    border-bottom: solid 1px black;
+}
+
+.username {
+    position: absolute;
+    right: 100px;
+    top: 25px;
+    background-color: white;
+    color: black;
+}
+
+.inv-button {
+    visibility: hidden;
+}
+
+.exit {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.basket {
+    position: absolute;
+    left: 850px;
+    top: 2px;
+    width: 40px;
+    height: 40px;
+}
+
+.main-menu {
+    display: inline-block;
+    top: inherit;
+    width: 10%;
+    height: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.main-menu a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.search-form {
+    position: absolute;
+    left: 600px;
+    top: 3px;
+    width: 300px;
+    height: 60px;
+}
+
+.profile {
+    position: absolute;
+    right: 95px;
+    top: 5px;
+}
+
+.admins {
+    position: absolute;
+    right: 200px;
+    top: 20px;
+}
